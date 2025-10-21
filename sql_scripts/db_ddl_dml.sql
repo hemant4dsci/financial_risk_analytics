@@ -29,6 +29,7 @@ CREATE TABLE IF NOT EXISTS portfolios (
     manager_name VARCHAR(15),
     inception_date DATE,
     total_value_usd NUMERIC(15, 2),
+    exposure_limit NUMERIC(15, 2),
     CONSTRAINT pk_porfolio_id PRIMARY KEY (portfolio_id)
 );
 
@@ -46,7 +47,6 @@ CREATE TABLE IF NOT EXISTS positions (
     asset_id SMALLINT,
     region VARCHAR(8),
     exposure_value NUMERIC(15, 2),
-    exposure_limit NUMERIC(15, 2),
     return_rate NUMERIC(5, 2),
     trade_date DATE,
     CONSTRAINT pk_position_id PRIMARY KEY (position_id),
