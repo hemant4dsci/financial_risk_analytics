@@ -1,6 +1,6 @@
 asset_id,asset_class,rating,volatility,sector
 1,ETF,BBB,0.195,Technology
-2,Commodity,AAA,0.16,Infrastructure
+2,Commodity,AAA,0.160,Infrastructure
 3,Equity,AA,0.189,Technology
 4,Bond,AA,0.181,Finance
 5,Real Estate,AAA,0.128,Technology
@@ -9,7 +9,7 @@ asset_id,asset_class,rating,volatility,sector
 8,ETF,BB,0.055,Utilities
 9,ETF,BB,0.028,Finance
 10,ETF,AA,0.079,Healthcare
-11,Bond,BB,0.09,Technology
+11,Bond,BB,0.090,Technology
 12,Commodity,AA,0.069,Infrastructure
 13,Bond,AAA,0.169,Finance
 14,Bond,AAA,0.084,Infrastructure
@@ -31,13 +31,13 @@ asset_id,asset_class,rating,volatility,sector
 30,Bond,BBB,0.041,Finance
 31,Bond,AA,0.175,Energy
 32,ETF,BBB,0.132,Healthcare
-33,Real Estate,BBB,0.08,Finance
+33,Real Estate,BBB,0.080,Finance
 34,Equity,AA,0.031,Utilities
 35,ETF,AAA,0.076,Utilities
 36,ETF,AAA,0.079,Energy
 37,Real Estate,BBB,0.151,Healthcare
 38,ETF,A,0.135,Energy
-39,Real Estate,BBB,0.18,Technology
+39,Real Estate,BBB,0.180,Technology
 40,Commodity,BBB,0.105,Technology
 41,Real Estate,BBB,0.042,Healthcare
 42,Equity,AAA,0.148,Infrastructure
@@ -72,7 +72,7 @@ asset_id,asset_class,rating,volatility,sector
 71,Equity,BBB,0.165,Energy
 72,Equity,AA,0.181,Technology
 73,Commodity,BBB,0.077,Technology
-74,Commodity,AAA,0.04,Utilities
+74,Commodity,AAA,0.040,Utilities
 75,Bond,AA,0.061,Infrastructure
 76,Equity,BBB,0.097,Finance
 77,Bond,AAA,0.167,Energy
@@ -80,10 +80,10 @@ asset_id,asset_class,rating,volatility,sector
 79,Equity,A,0.021,Infrastructure
 80,Equity,BBB,0.112,Finance
 81,ETF,A,0.095,Utilities
-82,Equity,BBB,0.06,Energy
+82,Equity,BBB,0.060,Energy
 83,Real Estate,BB,0.042,Finance
 84,Bond,BBB,0.081,Utilities
-85,Bond,AA,0.19,Utilities
+85,Bond,AA,0.190,Utilities
 86,ETF,AA,0.078,Energy
 87,Real Estate,A,0.113,Infrastructure
 88,Bond,AA,0.147,Healthcare
@@ -91,11 +91,11 @@ asset_id,asset_class,rating,volatility,sector
 90,Real Estate,BB,0.195,Technology
 91,Real Estate,BB,0.193,Technology
 92,ETF,AAA,0.065,Utilities
-93,Bond,A,0.11,Healthcare
+93,Bond,A,0.110,Healthcare
 94,Real Estate,AAA,0.074,Energy
 95,Bond,AAA,0.071,Technology
 96,Commodity,BB,0.027,Technology
-97,ETF,BBB,0.13,Energy
-98,Commodity,BB,0.11,Finance
+97,ETF,BBB,0.130,Energy
+98,Commodity,BB,0.110,Finance
 99,ETF,BB,0.029,Utilities
-100,Real Estate,AA,0.07,Energy
+100,Real Estate,AA,0.070,Energy
